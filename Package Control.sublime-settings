@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Align Arguments",
+		"Alignment",
+		"Autoprefixer",
+		"Babel",
+		"Babel Snippets",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"HTMLBeautify",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - White Panels",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"View In Browser"
+	]
+}
