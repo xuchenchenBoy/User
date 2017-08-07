@@ -1,11 +1,15 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"consolas": "consolas",
-	"font_size": 18,
+	"font_size": 16,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"material_theme_bright_scrollbars": true,
+	"material_theme_compact_panel": true,
+	"material_theme_disable_tree_indicator": true,
+	"material_theme_panel_separator": true,
 	"remember_open_files": true,
 	"theme": "Material-Theme.sublime-theme",
 	"word_wrap": true
