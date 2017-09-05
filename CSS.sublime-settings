@@ -2,6 +2,7 @@
 	"extensions":
 	[
 		"wxss",
-		"less"
+		"less",
+		"scss"
 	]
 }
