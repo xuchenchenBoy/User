@@ -28,7 +28,7 @@
 		"Python Improved",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter-contrib-eslint",
-		"View In Browser"
+		"View In Browser",
+		"SublimeLinter-eslint"
 	]
 }

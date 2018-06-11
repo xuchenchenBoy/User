@@ -19,7 +19,7 @@
     */
     "codeintel_enabled_languages":
     [
-       "JavaScript", "SCSS", "Python", "HTML",
+       "JavaScript", "SCSS", "Python",
        "Ruby", "Python3", "XML", "Sass", "HTML5", "Perl", "CSS",
        "Twig", "Less", "Node.js", "TemplateToolkit", "PHP"
     ],
